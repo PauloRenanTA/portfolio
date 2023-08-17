@@ -38,7 +38,7 @@
 <a href="https://www.gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-paulorenan-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
-<p>
+</p>
 
 - 💬 Acesse o meu LinkedIn
 <p align="left" style="background:white">
