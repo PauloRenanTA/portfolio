@@ -5,7 +5,7 @@
         <img src="imagens/Rosto1.jpg" alt="Foto de rosto de Paulo Renan">
 <picture>
 
-<h1>Quem sou eu?</h1>
+Quem sou eu?
         <p>
         Eu me chamo Paulo Renan. Sou formado em Administração pela Universidade Federal do Ceará, voltado para a área de Tecnologia da Informação. Trabalhei por dois anos com controle de qualidade e análise de dados no IBGE entre 2017 e 2023 durante os censos agropecuário e demográfico. Atualmente sou graduando em análise e desenvolvimento de sistema, pois me interessei muito pela programação e desenvolvimento. Espero que eu possa ajudá-lo na sua jornada!
         </p>
