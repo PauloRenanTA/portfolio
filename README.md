@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="imagens/Rosto1.jpg">
+<img align="right" height="450em" src="imagens/Rosto1.jpg">
 <h1 align="left">Olá amigos <img src="https://www.imagensanimadas.com/data/media/1645/abanar-e-acenar-imagem-animada-0077.gif" height="30px">, Eu sou Paulo Renan</h1>
 
 
@@ -6,7 +6,7 @@
 
 - 🔭 Trabalhei por dois anos com controle de qualidade e análise de dados no IBGE entre 2017 e 2023 durante os censos agropecuário e demográfico.
 
-- 👨‍💻 Atualmente sou graduando em análise e desenvolvimento de sistemas com grande interessei por programar e desenvolver.
+- 👨‍💻 Atualmente sou graduando em análise e desenvolvimento de sistemas com grande interesse por programar e desenvolver.
 
 - ⚡ Conte comigo na sua jornada!
 
@@ -26,15 +26,15 @@
 
 <h1 align="left" font-style="bold">Conheça meus projetos:</h1>
 
-- Para conhecer o projeto cordel <a href="https://paulorenanta.github.io/portfolio/projeto-cordel/index.html" target="_blank">clique aqui</a>
+- Para conhecer o projeto cordel, <a href="https://paulorenanta.github.io/portfolio/projeto-cordel/index.html" target="_blank">clique aqui</a>
 - Veja também o projeto android <a href="https://paulorenanta.github.io/portfolio/projeto-android/index.html" target="_blank">clicando aqui</a>
 
 <br><br>
 
 <h1 align="left" font-style="bold">Reach-me</h1>
 
-- 📫 Me envie um e-mail 
-<p align="left" style="background:yellow">paulorenaan@gmail.com
+- 📫 Me envie um e-mail: paulorenaan@gmail.com
+<p align="left" style="background:yellow">
 <a href="https://www.gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-paulorenan-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
