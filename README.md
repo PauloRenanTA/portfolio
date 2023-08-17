@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="imagens/Rosto1.jpg">
-<h1 align="left">Olá amigos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Paulo Renan</h1>
+<img align="right" height="500em" src="imagens/Rosto1.jpg">
+<h1 align="left">Olá amigos <img src="https://www.imagensanimadas.com/data/media/1645/abanar-e-acenar-imagem-animada-0077.gif" height="30px">, Eu sou Paulo Renan</h1>
 
 
 - 🔥 Bacharel em Administração pela Universidade Federal do Ceará, com foco em Tecnologia da Informação.
@@ -8,7 +8,7 @@
 
 - 👨‍💻 Atualmente sou graduando em análise e desenvolvimento de sistemas com grande interessei por programar e desenvolver.
 
-- 💬 ⚡ Conte comigo na sua jornada!
+- ⚡ Conte comigo na sua jornada!
 
 <br><br>
 
@@ -25,16 +25,24 @@
 <br><br>
 
 <h1 align="left" font-style="bold">Conheça meus projetos:</h1>
-        - Para conhecer o projeto cordel [clique aqui](https://paulorenanta.github.io/portfolio/projeto-cordel/index.html){:target="_blank"}
-        - Veja também o projeto android [clicando aqui](https://paulorenanta.github.io/portfolio/projeto-android/index.html){:target="_blank"}
 
-        <br><br>
+- Para conhecer o projeto cordel <a href="https://paulorenanta.github.io/portfolio/projeto-cordel/index.html" target="_blank">clique aqui</a>
+- Veja também o projeto android <a href="https://paulorenanta.github.io/portfolio/projeto-android/index.html" target="_blank">clicando aqui</a>
 
-        ## Social Links
-- 📫 Me enviei um e-mail [paulorenaan@gmail.com]
-- Ou acesse o meu LinkedIn
+<br><br>
+
+<h1 align="left" font-style="bold">Reach-me</h1>
+
+- 📫 Me envie um e-mail 
+<p align="left" style="background:yellow">paulorenaan@gmail.com
+<a href="https://www.gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-paulorenan-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+<p>
+
+- 💬 Acesse o meu LinkedIn
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/paulo-renaan/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-paulorenan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
