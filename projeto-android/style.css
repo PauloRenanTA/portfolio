@@ -1,0 +1,232 @@
+@font-face {
+    font-family: 'Idroid', sans-serif;
+    src: url('fontes/idroid.otf') format('opentype');
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #84e1ad;
+    margin: 0;
+}
+
+header {
+    min-width: 268px;
+    padding: 20px;
+    padding-left: none;
+    padding-right: 70px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to bottom, #38ca79, #1a5c38);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    box-shadow: 2px 2px 8px black;
+}
+
+header nav {
+    text-align: left;
+    padding: 0;
+
+}
+
+header nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    position: relative;
+    bottom: -10px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5vh;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+header nav a:hover {
+    background-color: #4e8868;
+    color: #1a5c38;
+    border-radius: 5px;
+
+}
+
+#titulo-principal {
+    font-family: 'Bebas Neue', sans-serif;
+    padding-top: 5px;
+    padding-left: 1em;
+    padding-bottom: 0;
+    color: white;
+    text-align: center;
+    margin: auto;
+    font-size: 3em;
+    font-weight: normal;
+    text-shadow: 1px 1px 1px black;
+}
+
+p {
+    text-indent: 40px;
+    padding-bottom: 10px;
+    line-height: 1.5em;
+    font-style: normal;
+    font-weight: 500;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-decoration: none;
+}
+
+.container {
+    margin: auto;
+}
+
+.parag1 {
+    padding-top: 5px;
+    font-size: 13px;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+}
+
+.pinicial {
+    padding-top: 10px;
+}
+
+main {
+    background-color: white;
+    max-width: 800px;
+    min-width: 300px;
+    margin: auto;
+    padding: 25px 20px 25px 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0.5px 0.5px 10px black;
+
+}
+
+h1 {
+    font-family: 'Idroid', sans-serif;
+    color: #1a5c38;
+    padding-bottom: 23px;
+}
+
+h2 {
+    font-family: 'Idroid', sans-serif;
+    color: #1a5c38;
+    padding-left: 9px;
+    background-image: linear-gradient(90deg, #c8ecd8, #fff);
+    text-align: left;
+}
+
+footer {
+    background-color: #1a5c38;
+    padding-top: 8px;
+}
+
+footer p a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+footer p a:hover {
+    color: rgba(255, 255, 255, 0.719);
+}
+
+.rodape {
+    text-align: center;
+    font-style: italic;
+    font-weight: 400;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+strong {
+    color: #1a5c38;
+    font-weight: lighter;
+}
+
+.apicon {
+    color: #1a5c38;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.androids {
+    display: flex;
+    justify-content: center;
+}
+
+.blok {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.bugdroid {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+div.video {
+    position: relative;
+    background-color: #1A5C37;
+    height: 0px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: 15px;
+    padding-bottom: 59%;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+aside {
+    background-color: #c5ebd6;
+    border-radius: 10px 10px 10px 10px;
+    margin: 0;
+    padding-bottom: 12px;
+    box-shadow: 1px 1px 20px black;
+}
+
+.titulo-aside {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: white;
+    background-color: #2fa866;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 9px;
+
+}
+
+.paside {
+    font-style: normal;
+    font-weight: 500;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 9px;
+    padding-right: 8px;
+}
+
+aside ul {
+    list-style-type: '\2714\0020\0020';
+    columns: 2;
+    list-style-position: inside;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+}
