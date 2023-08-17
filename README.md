@@ -4,6 +4,8 @@
 
 - 🔥 Bacharel em Administração pela Universidade Federal do Ceará, com foco em Tecnologia da Informação.
 
+- 👨‍💻 Tenho experiência com produção acadêmica nas áreas de sustentabilidade, tecnologia da informação e governança de TI (ITIL).
+
 - 🔭 Trabalhei por dois anos com controle de qualidade e análise de dados no IBGE entre 2017 e 2023 durante os censos agropecuário e demográfico.
 
 - 👨‍💻 Atualmente sou graduando em análise e desenvolvimento de sistemas com grande interesse por programar e desenvolver.
