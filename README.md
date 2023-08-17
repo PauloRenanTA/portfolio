@@ -34,14 +34,14 @@
 <h1 align="left" font-style="bold">Reach me</h1>
 
 - 📫 Me envie um e-mail: paulorenaan@gmail.com
-<p align="left" style="background:yellow">
+<p align="left" style="background:white">
 <a href="https://www.gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-paulorenan-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 <p>
 
 - 💬 Acesse o meu LinkedIn
-<p align="left" style="background:yellow">
+<p align="left" style="background:white">
 <a href="https://www.linkedin.com/in/paulo-renaan/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-paulorenan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
