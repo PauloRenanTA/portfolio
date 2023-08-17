@@ -31,7 +31,7 @@
 
 <br><br>
 
-<h1 align="left" font-style="bold">Reach-me</h1>
+<h1 align="left" font-style="bold">Reach me</h1>
 
 - 📫 Me envie um e-mail: paulorenaan@gmail.com
 <p align="left" style="background:yellow">
