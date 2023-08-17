@@ -1,4 +1,4 @@
-<img align="right" height="450em" src="imagens/Rosto1.jpg">
+<img align="right" height="300em" src="imagens/Rosto1.jpg">
 <h1 align="left">Olá amigos <img src="https://www.imagensanimadas.com/data/media/1645/abanar-e-acenar-imagem-animada-0077.gif" height="30px">, Eu sou Paulo Renan</h1>
 
 
