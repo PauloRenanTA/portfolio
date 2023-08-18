@@ -9,8 +9,16 @@
   box-sizing: border-box;
 }
 
+:root {
+  --cor-destaque: #1a5c38;
+  --cor-fundo: #84e1ad;
+   --cor-texto: #fff;
+   --fonte-subtitulos: "Idroid", sans-serif;
+   --fonte-geral: Arial, Helvetica, sans-serif;
+}
+
 body {
-  background-color: #84e1ad;
+  background-color: var(--cor-fundo);
   margin: 0;
 }
 
@@ -18,7 +26,7 @@ header {
   text-align: center;
   text-decoration: none;
   background-image: linear-gradient(to bottom, #38ca79, #1a5c38);
-  color: white;
+  color: var(--cor-texto);
   width: auto;
   box-shadow: 0.17vw 0.25vh 0.5rem black;
   padding-top: 6vh;
@@ -38,7 +46,7 @@ header {
 }
 
 #subtitulo {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--fonte-geral);
   padding: 1vh 3vw 4.5vh 0;
   text-align: center;
   text-decoration: none;
@@ -53,21 +61,21 @@ header nav {
 }
 
 header nav a {
-  color: white;
+  color: var(--cor-texto);
   text-decoration: none;
   padding: 1.25vh 0.85vw 1.25vh 0.85vw;
   position: relative;
   bottom: -10px;
   font-style: normal;
   font-weight: 600;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--fonte-geral);
   font-size: 2.5vh;
   transition: background-color 0.5s, color 0.5s;
 }
 
 header nav a:hover {
   background-color: #4e8868;
-  color: #1a5c38;
+  color: var(--cor-destaque);
   border-radius: 5px;
 }
 
@@ -78,7 +86,7 @@ p {
   font-style: normal;
   font-weight: 500;
   font-size: larger;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--fonte-geral);
   text-align: justify;
   text-decoration: none;
 }
@@ -88,7 +96,7 @@ p {
 }
 
 main {
-  background-color: white;
+  background-color: var(--cor-texto);
   max-width: 800px;
   min-width: 300px;
   margin: auto;
@@ -100,27 +108,27 @@ main {
 }
 
 h2 {
-  font-family: "Idroid", sans-serif;
-  color: #1a5c38;
+  font-family: var(--fonte-subtitulos);
+  color: var(--cor-destaque);
   padding-bottom: 4vh;
 }
 
 h3 {
-  font-family: "Idroid", sans-serif;
-  color: #1a5c38;
+  font-family: var(--fonte-subtitulos);
+  color: var(--cor-destaque);
   padding-left: 0.75vw;
   background-image: linear-gradient(90deg, #c8ecd8, #fff);
   text-align: left;
 }
 
 b {
-  color: #1a5c38;
+  color: var(--cor-destaque);
   font-weight: bold;
 }
 
 .apicon {
-  background-color: #84e1ad;
-  color: #1a5c38;
+  background-color: var(--cor-fundo);
+  color: var(--cor-destaque);
   text-decoration: none;
   font-weight: bold;
 }
@@ -172,9 +180,9 @@ aside {
 }
 
 .titulo-aside {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--fonte-geral);
   font-size: medium;
-  color: white;
+  color: var(--cor-texto);
   background-color: #2fa866;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -185,7 +193,7 @@ aside {
   font-style: normal;
   font-weight: 500;
   font-size: larger;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--fonte-geral);
   padding: 9px;
   padding-right: 8px;
 }
@@ -195,19 +203,19 @@ aside ul {
   columns: 2;
   list-style-position: inside;
   margin-left: 15px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--fonte-geral);
   font-size: larger;
   font-weight: 500;
 }
 
 footer {
-  background-color: #1a5c38;
+  background-color: var(--cor-destaque);
   padding-top: 1.5vh;
 }
 
 footer p a {
   text-decoration: none;
-  color: white;
+  color: var(--cor-texto);
   font-weight: bold;
 }
 
@@ -220,6 +228,6 @@ footer p a:hover {
   font-style: normal;
   font-weight: 400;
   font-size: medium;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
+  font-family: var(--fonte-geral);
+  color: var(--cor-texto);
 }
