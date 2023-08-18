@@ -28,8 +28,9 @@
 
 <h1 align="left" font-style="bold">Conheça meus projetos:</h1>
 
-- Para conhecer o projeto cordel, <a href="https://paulorenanta.github.io/portfolio/projeto-cordel/index.html" target="_blank">clique aqui</a>
-- Veja também o projeto android <a href="https://paulorenanta.github.io/portfolio/projeto-android/index.html" target="_blank">clicando aqui</a>
+- Para conhecer o projeto cordel, <a href="https://paulorenanta.github.io/portfolio/projeto-cordel/index.html" target="_blank">clique aqui.</a>
+- Veja também o projeto android <a href="https://paulorenanta.github.io/portfolio/projeto-android/index.html" target="_blank">clicando aqui.</a>
+- Primeiro mini projeto de texto-animado. <a href="https://paulorenanta.github.io/portfolio/mini-projeto-texto-animado/index.html" target="_blank">Clique aqui para ver.</a>
 
 <br><br>
 
