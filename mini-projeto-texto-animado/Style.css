@@ -1,0 +1,89 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    color-scheme: dark;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgba(0, 0, 0, 0.993);
+    position: relative;
+}
+
+.msg {
+    font-family: 'Indie Flower', cursive;
+    color: rgba(255, 145, 0, 0.527);
+    font-size: 100%;
+}
+
+audio {
+    width: 143px;
+    height: 25px;
+}
+
+audio::-webkit-media-controls-timeline { 
+    display: none;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: rgba(0, 0, 0, 0.900);
+}
+
+h1 {
+    -webkit-text-stroke: .5vh
+    rgb(0, 0, 0);
+    font-size: 10vw;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 2vh;
+    text-transform: uppercase;
+    background-image: url(imagens/fogo4.avif); /* Endereço original no freepik em https://www.freepik.com/free-photo/abstract-fire-iphone-wallpaper-realistic-burning-flame-image_21631095.htm#query=fire%20texture&position=42&from_view=keyword&track=ais */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: cover;
+    animation: text 10s linear infinite;
+}
+
+@keyframes text {
+    0%{
+        background-position: 0% 0%;
+    }
+    100%{
+        background-position: 0% 100%;
+    }
+}
+
+.container1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.baldur{
+    border-radius: 50px;
+    opacity: 0.2;
+    margin-right: 4em;
+    margin-top: -1em;
+}
+
+.container2 {
+    position: absolute;
+    top: 40%;
+    left: 80%;
+}
+
+.atreus{
+    opacity: 0.3;
+    border-radius: 50px;
+    margin-top: 2em;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+}
+
+.kratos{
+    border-radius: 30px;
+    opacity: 0.95;
+}
