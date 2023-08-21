@@ -61,3 +61,21 @@ iframe {
     margin-left: 8px;
     margin-bottom: 20px;
 }
+
+/* Estilos para os ícones de redes sociais em telas menores */
+@media (max-width: 768px) {
+    .container {
+        bottom: 50px;
+        left: 50%;
+        transform: translateX(-15%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .container:nth-child(1) {
+        bottom: 80px;
+    }
+    
+    /* Outras regras de posicionamento para os outros ícones */
+}
