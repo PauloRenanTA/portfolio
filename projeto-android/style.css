@@ -1,8 +1,10 @@
+/* Definição da fonte personalizada */
 @font-face {
   font-family: "Idroid", sans-serif;
   src: url("fontes/idroid.otf") format("opentype");
 }
 
+/* Reset CSS e configurações globais */
 * {
   margin: 0;
   padding: 0;
@@ -12,9 +14,9 @@
 :root {
   --cor-destaque: #1a5c38;
   --cor-fundo: #84e1ad;
-   --cor-texto: #fff;
-   --fonte-subtitulos: "Idroid", sans-serif;
-   --fonte-geral: Arial, Helvetica, sans-serif;
+  --cor-texto: #fff;
+  --fonte-subtitulos: "Idroid", sans-serif;
+  --fonte-geral: Arial, Helvetica, sans-serif;
 }
 
 body {

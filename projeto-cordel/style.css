@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+/* Definição das variáveis de estilo */
 :root {
     --fonte1: 'Passion One', cursive;
     --fonte2: Verdana, Geneva, Tahoma, sans-serif;
@@ -12,6 +13,7 @@
     --cor-background-sobreposto2: #d8b48d85;
 }
 
+/* Reset e configurações globais */
 * {
     margin: 0;
     padding: 0;
@@ -40,15 +42,19 @@ h1 {
     letter-spacing: 0.3vw;
 }
 
+/* Estilo para as letras iniciais "C" e "M" do título */
 h1 > span {
     font-size: 10vw;
 }
 
+
+/* Estilo para o texto do cabeçalho */
 header > p {
     font-family: var(--fonte2);
     font-size: 16px;
 }
 
+/* Estilo para o link do autor */
 header > p > a {
     text-decoration: none;
     font-weight: bold;
@@ -59,6 +65,7 @@ header > p > a:hover {
     text-decoration: underline;
 }
 
+/* Estilo para o texto externo */
 .externo {
     font-family: var(--fonte3);
     font-style: italic;
@@ -69,6 +76,7 @@ header > p > a:hover {
     padding: 4vh 0vw 6vh 3.5vw;
 }
 
+/* Estilo para a seção com imagem de fundo 01 em efeito paralax*/
 #img01 {
     background-image: url(imagens/ladybug-1280.jpg);  /*Imagem de licença gratuita extraída da plataforma https://pixabay.com/pt/*/
     background-repeat: no-repeat;
@@ -80,6 +88,7 @@ header > p > a:hover {
     position: relative;
 }
 
+/* Estilo para o texto sobreposto na imagem 01 */
 .sobreposto1 {
     position: absolute;
     top: 10vmax;
@@ -97,6 +106,7 @@ header > p > a:hover {
     border-radius: 0.5rem;
 }
 
+/* Estilo para a seção com imagem de fundo 02 em efeito paralax*/
 #img02 {
     background-image: url(imagens/letters-1280.jpg); /*Imagem de licença gratuita extraída da plataforma https://pixabay.com/pt/*/
     background-repeat: no-repeat;
@@ -108,6 +118,7 @@ header > p > a:hover {
     position: relative;
 }
 
+/* Estilo para o texto sobreposto na imagem 02 */
 .sobreposto2 {
     position: absolute;
     top: 10vmax;
