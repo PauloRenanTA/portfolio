@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+/*Configurações Gerais (Reset)*/
+* {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para o corpo da página com a imagem de fundo, sua posição, cor de fundo por trás e responsividade*/
+body {
+    background-color: rgba(0, 0, 0, 0.842);
+    background-image: url(imagens/mesa-de-madeira.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+#telefone {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+iframe {
+    
+    width: 267px;
+    height: 471px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+/* Estilos para os ícones de redes sociais */
+.social {
+    border-radius: 200px;
+    width: 50px;
+    height: auto;
+
+    transition: transform 0.5s ease, box-shadow 1s ease;
+}
+
+/* Estilos de hover para os ícones de redes sociais */
+.social:hover {
+    transform: translate(5px, -5px);
+    box-shadow: 0px 0px 0px 2px rgb(255, 255, 255);
+}
+
+
+/* Estilos para os contêineres dos ícones */
+.container {
+    float: left;
+    clear: both;
+    margin-left: 8px;
+    margin-bottom: 20px;
+}
